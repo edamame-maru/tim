@@ -62,9 +62,6 @@ const FRIDAY: [&str; 9] = [
 ];
 
 fn main() {
-    println!(
-        "Soichi Ueda Upper Remove: https://ucs.myschoolportal.co.uk/showme/pupil-timetable..."
-    );
     day();
 }
 
